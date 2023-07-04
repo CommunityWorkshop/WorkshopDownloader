@@ -144,7 +144,7 @@ The first step when dealing with accusations of violation of the code of conduct
 
 <details>
   <summary>I don’t agree with Community Workshop’s politics. Should I avoid this code of conduct?</summary>
-  The code of conduct is separate from any particular politics or ideologies. It serves as a guideline for respectful behavior and sets expectations for participants in the Community Workshop. It is important to focus on the shared goal of creating an inclusive and welcoming environment rather than personal disagreements. The code of conduct does not imply any political or social orientation aside from the goal of making the project welcoming and inclusive to people of all backgrounds.
+  The code of conduct is separate from any particular politics or ideologies. It serves as a guideline for respectful behavior and sets expectations for participants of Community Workshop. It is important to focus on the shared goal of creating an inclusive and welcoming environment rather than personal disagreements. The code of conduct does not imply any political or social orientation aside from the goal of making the project welcoming and inclusive to people of all backgrounds.
 </details>
 
 <details>
