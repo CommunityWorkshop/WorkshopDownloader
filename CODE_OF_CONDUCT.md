@@ -1,5 +1,9 @@
 # Community Workshop Code of Conduct
 
+A Code of Conduct is a set of rules and guidelines that outlines the expected behavior and ethical standards for individuals or members of a particular group or organization. It serves as a framework for promoting a safe, respectful, and inclusive environment, fostering positive interactions and relationships among the members.
+
+The precise code of conduct for the community follows.
+
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers of the Community Workshop project pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
