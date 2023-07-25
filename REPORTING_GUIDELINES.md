@@ -4,7 +4,7 @@
 
 The purpose of this document is to establish clear and consistent guidelines for reporting misconduct within our community. We value a welcoming and inclusive environment where all participants feel safe and respected. This reporting process aims to address any instances of harassment, discrimination, or inappropriate behavior promptly and fairly.
 
-These guidelines are applicable to all members, contributors, and participants within our community. Misconduct includes but is not limited to harassment, bullying, hate speech, discrimination, or any actions that violates the [code of conduct](https://github.com/CommunityWorkshop/.template/blob/main/CODE_OF_CONDUCT.md).
+These guidelines are applicable to all members, contributors, and participants within our community. Misconduct includes but is not limited to harassment, bullying, hate speech, discrimination, or any actions that violates the [code of conduct](https://github.com/CommunityWorkshop/WorkshopDownloader/blob/main/CODE_OF_CONDUCT.md).
 
 ## 1. Reporting Channels
 
